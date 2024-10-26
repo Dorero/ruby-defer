@@ -4,6 +4,9 @@ The gem allows you to do deferred tasks within a block. It monkey patches the ke
 
 ## Installation
 
+```gem install ruby-defer``` or put ```gem 'ruby-defer', '~> 0.1.0'``` inside your Gemfile
+
+
 ## Usage
 
 ```
